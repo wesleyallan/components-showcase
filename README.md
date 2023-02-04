@@ -23,8 +23,8 @@
 ## 📨 Instalação
 
 ```sh
-git clone https://github.com/wesleyallan/showcase-components.git
-cd showcase-components
+git clone https://github.com/wesleyallan/components-showcase.git
+cd components-showcase
 yarn
 ```
 
